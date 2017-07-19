@@ -1,2 +1,2 @@
 # MachineLearningInAction
-Some Machine Learning experiments
+***Some Machine Learning experiments***
